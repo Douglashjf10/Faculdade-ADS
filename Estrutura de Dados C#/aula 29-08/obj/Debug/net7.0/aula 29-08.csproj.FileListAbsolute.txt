@@ -1,0 +1,5 @@
+/media/aluno/ESD-USB/Segundo Periodo/Estrutura de Dados C#/aula 29-08/obj/Debug/net7.0/aula 29-08.csproj.AssemblyReference.cache
+/media/aluno/ESD-USB/Segundo Periodo/Estrutura de Dados C#/aula 29-08/obj/Debug/net7.0/aula 29-08.GeneratedMSBuildEditorConfig.editorconfig
+/media/aluno/ESD-USB/Segundo Periodo/Estrutura de Dados C#/aula 29-08/obj/Debug/net7.0/aula 29-08.AssemblyInfoInputs.cache
+/media/aluno/ESD-USB/Segundo Periodo/Estrutura de Dados C#/aula 29-08/obj/Debug/net7.0/aula 29-08.AssemblyInfo.cs
+/media/aluno/ESD-USB/Segundo Periodo/Estrutura de Dados C#/aula 29-08/obj/Debug/net7.0/aula 29-08.csproj.CoreCompileInputs.cache

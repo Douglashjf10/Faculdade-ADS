@@ -1,0 +1,15 @@
+/home/aluno/Documentos/Repulsividade/obj/Debug/net7.0/Repulsividade.csproj.AssemblyReference.cache
+/home/aluno/Documentos/Repulsividade/obj/Debug/net7.0/Repulsividade.GeneratedMSBuildEditorConfig.editorconfig
+/home/aluno/Documentos/Repulsividade/obj/Debug/net7.0/Repulsividade.AssemblyInfoInputs.cache
+/home/aluno/Documentos/Repulsividade/obj/Debug/net7.0/Repulsividade.AssemblyInfo.cs
+/home/aluno/Documentos/Repulsividade/obj/Debug/net7.0/Repulsividade.csproj.CoreCompileInputs.cache
+/home/aluno/Documentos/Repulsividade/bin/Debug/net7.0/Repulsividade
+/home/aluno/Documentos/Repulsividade/bin/Debug/net7.0/Repulsividade.deps.json
+/home/aluno/Documentos/Repulsividade/bin/Debug/net7.0/Repulsividade.runtimeconfig.json
+/home/aluno/Documentos/Repulsividade/bin/Debug/net7.0/Repulsividade.dll
+/home/aluno/Documentos/Repulsividade/bin/Debug/net7.0/Repulsividade.pdb
+/home/aluno/Documentos/Repulsividade/obj/Debug/net7.0/Repulsividade.dll
+/home/aluno/Documentos/Repulsividade/obj/Debug/net7.0/refint/Repulsividade.dll
+/home/aluno/Documentos/Repulsividade/obj/Debug/net7.0/Repulsividade.pdb
+/home/aluno/Documentos/Repulsividade/obj/Debug/net7.0/Repulsividade.genruntimeconfig.cache
+/home/aluno/Documentos/Repulsividade/obj/Debug/net7.0/ref/Repulsividade.dll
