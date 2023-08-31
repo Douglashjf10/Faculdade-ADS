@@ -1,0 +1,26 @@
+#divAzul{
+    background-color: blue;
+    width: 100px;
+    height: 100px;
+    transition: background-color 2s;
+}
+
+#divAzul:hover{
+    background-color: red;
+}
+
+#divVerde{
+    background-color: green;
+    width: 100px;
+    height: 200px;
+    transition: width 1s;
+}
+
+#divVerde:hover{
+    width: 400px;
+}
+
+
+img{
+    opacity: 0.5s;
+}

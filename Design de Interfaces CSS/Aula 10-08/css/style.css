@@ -1,0 +1,33 @@
+p{
+    color:red;
+}
+p{
+    color:blue;
+}
+
+.titulos{
+    color:pink;
+}
+
+h1{
+    color:yellow;
+}
+h2{
+    color:purple;
+}
+#paragrafo2{
+    color:maroon;
+}
+
+.grupo1{
+    font-size:large;
+}
+.texto-verde{
+    color:green;
+}
+.grupo3{
+    font-size:x-large;
+}
+.paragrafo4{
+    color:darkblue;
+}

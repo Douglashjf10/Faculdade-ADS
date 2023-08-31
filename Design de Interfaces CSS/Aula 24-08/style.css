@@ -1,0 +1,18 @@
+
+.titulo{
+    color: #194cc9;
+    background-color: #e9d41c;
+}
+
+#paragrafo1{
+    color: #507620
+}
+.fundo-azul{
+    background-color: #7fffd4;
+}
+.fundo-textura{
+    background-image: url("./media/aluno/ESD-USB/Segundo Periodo/Design de Interfaces CSS/Aula 24-08/metal-texture.jpg");
+}
+.galinha-pintadinha{
+    background-image: url("./media/aluno/ESD-USB/Segundo Periodo/Design de Interfaces CSS/Aula 24-08/galinha.png");
+}
