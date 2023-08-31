@@ -1,0 +1,15 @@
+C:\Users\dougl\OneDrive\Área de Trabalho\TreinoPROVAFP2\bin\Debug\net7.0\TreinoPROVAFP2.exe
+C:\Users\dougl\OneDrive\Área de Trabalho\TreinoPROVAFP2\bin\Debug\net7.0\TreinoPROVAFP2.deps.json
+C:\Users\dougl\OneDrive\Área de Trabalho\TreinoPROVAFP2\bin\Debug\net7.0\TreinoPROVAFP2.runtimeconfig.json
+C:\Users\dougl\OneDrive\Área de Trabalho\TreinoPROVAFP2\bin\Debug\net7.0\TreinoPROVAFP2.dll
+C:\Users\dougl\OneDrive\Área de Trabalho\TreinoPROVAFP2\bin\Debug\net7.0\TreinoPROVAFP2.pdb
+C:\Users\dougl\OneDrive\Área de Trabalho\TreinoPROVAFP2\obj\Debug\net7.0\TreinoPROVAFP2.csproj.AssemblyReference.cache
+C:\Users\dougl\OneDrive\Área de Trabalho\TreinoPROVAFP2\obj\Debug\net7.0\TreinoPROVAFP2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dougl\OneDrive\Área de Trabalho\TreinoPROVAFP2\obj\Debug\net7.0\TreinoPROVAFP2.AssemblyInfoInputs.cache
+C:\Users\dougl\OneDrive\Área de Trabalho\TreinoPROVAFP2\obj\Debug\net7.0\TreinoPROVAFP2.AssemblyInfo.cs
+C:\Users\dougl\OneDrive\Área de Trabalho\TreinoPROVAFP2\obj\Debug\net7.0\TreinoPROVAFP2.csproj.CoreCompileInputs.cache
+C:\Users\dougl\OneDrive\Área de Trabalho\TreinoPROVAFP2\obj\Debug\net7.0\TreinoPROVAFP2.dll
+C:\Users\dougl\OneDrive\Área de Trabalho\TreinoPROVAFP2\obj\Debug\net7.0\refint\TreinoPROVAFP2.dll
+C:\Users\dougl\OneDrive\Área de Trabalho\TreinoPROVAFP2\obj\Debug\net7.0\TreinoPROVAFP2.pdb
+C:\Users\dougl\OneDrive\Área de Trabalho\TreinoPROVAFP2\obj\Debug\net7.0\TreinoPROVAFP2.genruntimeconfig.cache
+C:\Users\dougl\OneDrive\Área de Trabalho\TreinoPROVAFP2\obj\Debug\net7.0\ref\TreinoPROVAFP2.dll

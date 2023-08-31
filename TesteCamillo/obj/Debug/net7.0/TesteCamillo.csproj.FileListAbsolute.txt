@@ -1,0 +1,15 @@
+C:\Users\dougl\OneDrive\Área de Trabalho\TesteCamillo\bin\Debug\net7.0\TesteCamillo.exe
+C:\Users\dougl\OneDrive\Área de Trabalho\TesteCamillo\bin\Debug\net7.0\TesteCamillo.deps.json
+C:\Users\dougl\OneDrive\Área de Trabalho\TesteCamillo\bin\Debug\net7.0\TesteCamillo.runtimeconfig.json
+C:\Users\dougl\OneDrive\Área de Trabalho\TesteCamillo\bin\Debug\net7.0\TesteCamillo.dll
+C:\Users\dougl\OneDrive\Área de Trabalho\TesteCamillo\bin\Debug\net7.0\TesteCamillo.pdb
+C:\Users\dougl\OneDrive\Área de Trabalho\TesteCamillo\obj\Debug\net7.0\TesteCamillo.csproj.AssemblyReference.cache
+C:\Users\dougl\OneDrive\Área de Trabalho\TesteCamillo\obj\Debug\net7.0\TesteCamillo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dougl\OneDrive\Área de Trabalho\TesteCamillo\obj\Debug\net7.0\TesteCamillo.AssemblyInfoInputs.cache
+C:\Users\dougl\OneDrive\Área de Trabalho\TesteCamillo\obj\Debug\net7.0\TesteCamillo.AssemblyInfo.cs
+C:\Users\dougl\OneDrive\Área de Trabalho\TesteCamillo\obj\Debug\net7.0\TesteCamillo.csproj.CoreCompileInputs.cache
+C:\Users\dougl\OneDrive\Área de Trabalho\TesteCamillo\obj\Debug\net7.0\TesteCamillo.dll
+C:\Users\dougl\OneDrive\Área de Trabalho\TesteCamillo\obj\Debug\net7.0\refint\TesteCamillo.dll
+C:\Users\dougl\OneDrive\Área de Trabalho\TesteCamillo\obj\Debug\net7.0\TesteCamillo.pdb
+C:\Users\dougl\OneDrive\Área de Trabalho\TesteCamillo\obj\Debug\net7.0\TesteCamillo.genruntimeconfig.cache
+C:\Users\dougl\OneDrive\Área de Trabalho\TesteCamillo\obj\Debug\net7.0\ref\TesteCamillo.dll
