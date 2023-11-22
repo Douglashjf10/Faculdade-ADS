@@ -1,0 +1,237 @@
+/* As telas deverão ser compostas de:
+● Um título (nome do jogo);
+● Um menu;
+● As instruções do jogo;
+● A história que o jogo aborda;
+● Rodapé;
+● O jogo - A tela do jogo deverá ter um grid onde serão exibidos no mínimo 15 cards de
+imagens e um cronômetro.
+
+
+1- Cores e tipografia
+Escolha e implemente a paleta de cores, as fontes e a formatação a serem aplicadas em cada
+elemento da interface.
+Apresente o conceito escolhido e justifique suas escolhas.
+
+2- Layout
+Deve ser utilizado css grid para posicionar as imagens no jogo e para criar o layout geral da
+aplicação.  */
+
+
+body {
+    background-color: rgba(0, 0, 0, 0.878);
+    display: grid;
+    grid-template-rows: auto 1fr auto;
+    grid-row: 1fr;
+    grid-template-areas:
+        "titulo-game"
+        "menu"
+        "brasileirao"
+        "instrucoes"
+        "cronometro"
+        "jogo1"
+        "historia";
+    font-family: Arial, sans-serif;
+}
+
+.jogo1 {
+    display: grid;
+    flex-direction: column;
+    width: 80%;
+    align-items: center;
+    justify-items: center;
+    padding: 50px 50px;
+    grid-template:
+        'America AthleticoParanaense AtléticoMineiro Bahia Botafogo' 1fr
+        'Corinthians Coritiba Cruzeiro Cuiaba Flamengo' 1fr
+        'Fluminense Fortaleza Goias Grêmio Internacional' 1fr
+        /1fr 1fr 1fr 1fr 1fr;
+}
+
+#titulo-game {
+    color: #edc711;
+    grid-area: titulo-game;
+    text-align: center; /* Centralizar o texto */
+    padding: 10px; /* Adicionar espaçamento interno */
+    font-size: 24px; /* Ajustar o tamanho da fonte */
+    font-family: "Alegreya";
+}
+
+
+.img {
+    height: 120px;
+    width: 40%;
+    border-radius: 20%;
+    border: 1px solid;
+    cursor: pointer;
+    margin-bottom: 40px;
+    margin-left: 10px;
+    margin-right: 5px;
+
+}
+
+.img:hover {
+    transform: scale(1.2);
+}
+
+#menu {
+    color: #edc711;
+    grid-area: menu;
+}
+
+#instrucoes {
+    color: #f2f2ee;
+    text-align: center; /* Centralizar instrucoes*/
+}
+
+#titulo-historia {
+    text-align: center;
+}
+
+#historia {
+    color:#f2f2ee;
+}
+
+#encarar{
+    text-align: center;
+}
+
+#rodape {
+    background-color: #b8b7ba;
+    text-align: center; /* Centralizar rodapé*/
+}
+
+.container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 2rem;
+    padding-top: 3rem;
+}
+
+.cronometro {
+    display: flex;
+    font-size: 50px;
+    grid-area: cronometro;
+    font-family: 'clock';
+    background-color:#034299;
+    border-style: solid;
+    border-color: #7a7d7f;
+    border-radius: 12px;
+    color: black;
+}
+
+.tempo {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    min-width: 90px;
+    margin-right: 5px;
+}
+
+.separador {
+    padding: 0 10px;
+}
+
+.botoes {
+    display: flex;
+    gap: 1rem;
+}
+
+.botao {
+    padding: 10px 20px;
+    font-size: 18px;
+    border-radius: 30px;
+    cursor: pointer;
+    border: 1px solid #000;
+    transition: all 0.2s ease-in-out;
+}
+
+.botao:hover {
+    transform: scale(1.1);
+}
+
+#brasileirao{
+    text-align: center;
+    grid-area: brasileirao;
+}
+
+#America {
+    grid-area: America;
+}
+
+#AthleticoParanaense {
+    grid-area: Athletico Paranaense;
+}
+
+#AtléticoMineiro {
+    grid-area: Atlético Mineiro;
+}
+
+#Bahia {
+    grid-area: Bahia;
+}
+
+#Botafogo {
+    grid-area: Botafogo;
+}
+
+#Corinthians {
+    grid-area: Corinthians;
+}
+
+#Coritiba {
+    grid-area: Coritiba;
+}
+
+#Cruzeiro {
+    grid-area: Cruzeiro;
+}
+
+#Cuiaba {
+    grid-area: Cuiaba;
+}
+
+#Flamengo {
+    grid-area: Flamengo;
+}
+
+#Fluminense {
+    grid-area: Fluminense;
+}
+
+#Fortaleza {
+    grid-area: Fortaleza;
+}
+
+#Goias {
+    grid-area: Goias;
+}
+
+#Grêmio {
+    grid-area: Grêmio;
+}
+
+#Internacional {
+    grid-area: Internacional;
+}
+
+#Palmeiras {
+    grid-area: Palmeiras;
+}
+
+#RedBullBragantino {
+    grid-area:Red Bull Bragantino;
+}
+
+#Santos {
+    grid-area: Santos;
+}
+
+#SãoPaulo {
+    grid-area: São Paulo;
+}
+
+#VascodaGama {
+    grid-area: Vasco da Gama;
+}

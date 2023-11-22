@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title> MEMORY GAME CARDS BRASILEIRÃO 2023 </title>
+    <link rel="stylesheet" href="./css/style.css">
+</head>
+
+<body>
+    <div><h1 id="titulo-game"> MEMORY GAME CARDS BRASILEIRÃO 2023 </h1></div>
+
+    <div id="brasileirao"><img src="./assets/images/Brasileirão.png" width="12%"></div>
+
+    <div id="menu"><menu> Instruções &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+        Jogo &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; História</menu></div>
+
+    <div id="instrucoes">
+        <h3> Como jogar? </h3>
+        <p> O <strong> OBJETIVO </strong> será apagar/clicar em todas as imagens que estavam presentes nas duas telas!
+            Se o jogador clicar em uma imagem que não estava na primeira tela, perde. Por exemplo, em caso de
+            tentar apagar a imagem a qual não estava na primeira tela.
+            <br><br>
+            <h4>Como ganhar?</h4>
+           <p>O jogador ganha se restarem somente as imagens que eram diferentes nas duas telas, ou seja, deverão restar 
+            somente as imagens que não estavam presentes na primeira tela!</p><br>
+        Dadas as instruções,<br><br> Bom jogo! <br><br> Segue o LÍDER.
+    </div>
+
+    <div class="jogo">
+        <div class="container">
+            <div class="cronometro">
+                <div class="tempo" id="minutos">00</div>
+                <div class="separador">:</div>
+                <div class="tempo" id="segundos">30</div>
+                <div class="separador">:</div>
+                <div class="tempo" id="milisegundos">000</div>
+            </div>
+            <div class="botoes">
+                <button class="botao" id="iniciar" onclick="iniciarJogo()">Iniciar</button>
+            </div>
+        </div>
+
+        <div class="imagem grid2 jogo1" id="jogo1"></div>
+    </div>
+
+    </div>
+   
+    <div id="historia">
+        <br><br><br><br><br><br><br><br><br>
+        <h2 id="titulo-historia"> História do MEMORY GAME CARDS BRASILEIRÃO 2023 </h2><br>
+        <p> &nbsp;&nbsp;&nbsp; "MEMORY GAME CARDS BRASILEIRÃO 2023" é um jogo da memória um pouco diferente do convencional, mas com
+            mas com uma dinâmica muuito mais divertida e interativa que busca exercitar a mente e claro, acima de tudo, dar aquela "brincadinha"
+            naquele horário vago do serviço, estudos e até mesmo entre uma tarefa doméstica e outra!<br>
+        <p> &nbsp;&nbsp;&nbsp;Junte-se a nós e venha conferir este <i>game</i> sensacional com o tema do nosso queridíssimo Campeonato Brasileiro do ano de 2023,
+            contando com os escudos dos 20 times presentes na tabela da Série A que buscam pelo título do Brasileirão, classificação para a 
+            Copa Libertadores da América e Copa Sulamericana, e logicamente, buscando fugir da Zona do Rebaixamento para a Série B, 
+            nossa carinhosamente apelidada:"Zona da Degola".</p>
+        <p> &nbsp;&nbsp;&nbsp; É um <i>game</i> que permite que torcedores de todas as idades mergulhem no mundo do futebol brasileiro, enquanto testam suas 
+            habilidades de memória e resolvem desafios divertidos relacionados ao esporte. É uma maneira única de celebrar o amor pelo futebol e criar uma conexão ainda mais profunda com os times do
+            Campeonato Brasileiro de 2023. </p><br>
+        <h3 id="encarar"> &nbsp;&nbsp;&nbsp;<strong> E aí torcedor, o que me diz? Vai encarar? </strong></h3><br><br><br>
+    </div>
+
+    <footer id="rodape">
+        <p> ® Trabalho de Design de Interfaces Digitais e Tecnologia Web Aplicada utilizando CSS, HTML e JavaScript.
+            <br><br> Trabalho desenvolvido pela dupla: Douglas Henrique de Almeida e Matheus Alcântara dos Anjos Araújo. <br>
+            Prof: Gildo Leonel Rocha ®
+        </p>
+    </footer>
+    <script src="./js/script.js"></script>
+</body>
+
+</html>
