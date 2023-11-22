@@ -1,0 +1,9 @@
+public class ListaEncadeada
+{
+    private No primeiro = null;
+    public No Primeiro
+    {
+        get{return primeiro;}
+    }
+    private No ultimo = null;
+}
