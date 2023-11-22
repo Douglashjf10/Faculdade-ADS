@@ -1,0 +1,42 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4; /* Cor de fundo mais clara para uma sensação de frescor e limpeza */
+    display: grid;
+    letter-spacing: 1.2px; /* Espaçamento entre letras reduzido para melhor legibilidade */
+    word-spacing: 10px; /* Espaçamento entre palavras aumentado para melhor legibilidade */
+    padding-bottom: 50px; /* Reduzido o espaço inferior */
+    line-height: 1.6; /* Espaçamento entre linhas aumentado para melhor legibilidade */
+}
+
+@font-face {
+    font-family: ;
+    src: url();
+}
+.menu {
+    text-align: center;
+}
+
+a:hover {
+    color: #e74c3c; /* Cor de destaque para links durante a interação do usuário */
+    text-decoration: underline;
+}
+
+a {
+    text-decoration: none;
+    color: #333; /* Cor principal para links */
+    font-family: 'Arial', sans-serif; /* Família tipográfica mais comum para melhor compatibilidade */
+}
+
+header {
+    padding: 0;
+}
+
+header h1 {
+    padding: 40px; /* Reduzido o preenchimento superior */
+    text-align: center;
+    background-color: #3498db; /* Cor de destaque para o cabeçalho */
+    font-size: 3em;
+    color: #fff; /* Texto branco para melhor contraste */
+    font-family: 'Arial', sans-serif;
+}
