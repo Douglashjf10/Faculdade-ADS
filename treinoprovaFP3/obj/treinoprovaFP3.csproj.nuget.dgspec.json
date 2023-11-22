@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\dougl\\OneDrive\\Área de Trabalho\\treinoprovaFP3\\treinoprovaFP3.csproj": {}
+    "D:\\RepositorioGitHub\\Faculdade-ADS\\treinoprovaFP3\\treinoprovaFP3.csproj": {}
   },
   "projects": {
-    "C:\\Users\\dougl\\OneDrive\\Área de Trabalho\\treinoprovaFP3\\treinoprovaFP3.csproj": {
+    "D:\\RepositorioGitHub\\Faculdade-ADS\\treinoprovaFP3\\treinoprovaFP3.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\dougl\\OneDrive\\Área de Trabalho\\treinoprovaFP3\\treinoprovaFP3.csproj",
+        "projectUniqueName": "D:\\RepositorioGitHub\\Faculdade-ADS\\treinoprovaFP3\\treinoprovaFP3.csproj",
         "projectName": "treinoprovaFP3",
-        "projectPath": "C:\\Users\\dougl\\OneDrive\\Área de Trabalho\\treinoprovaFP3\\treinoprovaFP3.csproj",
+        "projectPath": "D:\\RepositorioGitHub\\Faculdade-ADS\\treinoprovaFP3\\treinoprovaFP3.csproj",
         "packagesPath": "C:\\Users\\dougl\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\dougl\\OneDrive\\Área de Trabalho\\treinoprovaFP3\\obj\\",
+        "outputPath": "D:\\RepositorioGitHub\\Faculdade-ADS\\treinoprovaFP3\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

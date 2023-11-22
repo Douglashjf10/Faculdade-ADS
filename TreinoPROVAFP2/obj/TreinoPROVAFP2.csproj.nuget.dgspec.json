@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\dougl\\OneDrive\\Área de Trabalho\\TreinoPROVAFP2\\TreinoPROVAFP2.csproj": {}
+    "D:\\RepositorioGitHub\\Faculdade-ADS\\TreinoPROVAFP2\\TreinoPROVAFP2.csproj": {}
   },
   "projects": {
-    "C:\\Users\\dougl\\OneDrive\\Área de Trabalho\\TreinoPROVAFP2\\TreinoPROVAFP2.csproj": {
+    "D:\\RepositorioGitHub\\Faculdade-ADS\\TreinoPROVAFP2\\TreinoPROVAFP2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\dougl\\OneDrive\\Área de Trabalho\\TreinoPROVAFP2\\TreinoPROVAFP2.csproj",
+        "projectUniqueName": "D:\\RepositorioGitHub\\Faculdade-ADS\\TreinoPROVAFP2\\TreinoPROVAFP2.csproj",
         "projectName": "TreinoPROVAFP2",
-        "projectPath": "C:\\Users\\dougl\\OneDrive\\Área de Trabalho\\TreinoPROVAFP2\\TreinoPROVAFP2.csproj",
+        "projectPath": "D:\\RepositorioGitHub\\Faculdade-ADS\\TreinoPROVAFP2\\TreinoPROVAFP2.csproj",
         "packagesPath": "C:\\Users\\dougl\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\dougl\\OneDrive\\Área de Trabalho\\TreinoPROVAFP2\\obj\\",
+        "outputPath": "D:\\RepositorioGitHub\\Faculdade-ADS\\TreinoPROVAFP2\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

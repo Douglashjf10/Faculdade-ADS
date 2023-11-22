@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\dougl\\OneDrive\\Área de Trabalho\\TesteCamillo\\TesteCamillo.csproj": {}
+    "D:\\RepositorioGitHub\\Faculdade-ADS\\TesteCamillo\\TesteCamillo.csproj": {}
   },
   "projects": {
-    "C:\\Users\\dougl\\OneDrive\\Área de Trabalho\\TesteCamillo\\TesteCamillo.csproj": {
+    "D:\\RepositorioGitHub\\Faculdade-ADS\\TesteCamillo\\TesteCamillo.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\dougl\\OneDrive\\Área de Trabalho\\TesteCamillo\\TesteCamillo.csproj",
+        "projectUniqueName": "D:\\RepositorioGitHub\\Faculdade-ADS\\TesteCamillo\\TesteCamillo.csproj",
         "projectName": "TesteCamillo",
-        "projectPath": "C:\\Users\\dougl\\OneDrive\\Área de Trabalho\\TesteCamillo\\TesteCamillo.csproj",
+        "projectPath": "D:\\RepositorioGitHub\\Faculdade-ADS\\TesteCamillo\\TesteCamillo.csproj",
         "packagesPath": "C:\\Users\\dougl\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\dougl\\OneDrive\\Área de Trabalho\\TesteCamillo\\obj\\",
+        "outputPath": "D:\\RepositorioGitHub\\Faculdade-ADS\\TesteCamillo\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
